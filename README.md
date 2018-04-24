@@ -38,3 +38,6 @@ Get the calculated energy intensity measured by the sensor. It has no physical m
 - Arduino Nano (using SPI and I2C)
 - <a href="https://www.embeddedadventures.com/esp8266_wifi_module_wrl-esp7.html">ESP7 breakout</a> and <a href="https://www.embeddedadventures.com/esp8266_wifi_module_wrl-esp12e.html">ESP12E breakout</a> (using I2C -> SDA/SCL = IO5/IO4)
 
+More information:
+https://github.com/tardate/LittleArduinoProjects/tree/master/playground/AS3935
+https://www.heise.de/developer/artikel/Donnerwetter-2-0-Gewitterwarnungen-mit-MQTT-und-Twitter-3312871.html (german)
