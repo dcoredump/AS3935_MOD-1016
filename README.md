@@ -1,4 +1,6 @@
-# MOD-1016 #
+# AS3935_MOD-1016 forked from embeddedadventures/MOD-1016 #
+
+### (Fork of https://github.com/embeddedadventures/MOD-1016 with small additions for my needs) ###
 
 Arduino library and sample sketch for the <a href="http://www.embeddedadventures.com/as3935_lightning_sensor_module_mod-1016.html">AS3935 MOD-1016 Lightning Sensor</a>.
 
@@ -39,5 +41,5 @@ Get the calculated energy intensity measured by the sensor. It has no physical m
 - <a href="https://www.embeddedadventures.com/esp8266_wifi_module_wrl-esp7.html">ESP7 breakout</a> and <a href="https://www.embeddedadventures.com/esp8266_wifi_module_wrl-esp12e.html">ESP12E breakout</a> (using I2C -> SDA/SCL = IO5/IO4)
 
 More information:
-https://github.com/tardate/LittleArduinoProjects/tree/master/playground/AS3935
-https://www.heise.de/developer/artikel/Donnerwetter-2-0-Gewitterwarnungen-mit-MQTT-und-Twitter-3312871.html (german)
+- <a href="https://github.com/tardate/LittleArduinoProjects/tree/master/playground/AS3935">Cabling etc.</a>
+- <a HREF="https://www.heise.de/developer/artikel/Donnerwetter-2-0-Gewitterwarnungen-mit-MQTT-und-Twitter-3312871.html">Nice project with many information about the AS3935 (german)</a>
